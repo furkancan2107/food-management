@@ -1,18 +1,23 @@
-## Getting Started
+## Bugün Ne Yapsam
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+## Uygulama Hakkinda
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+     * Uygulama amacımız bize gösterilen malzemeler içinde elimizde olanları seçip
+     * programın bize hangi yemeği yapacağını göstermesidir
+     * programımızda 8 yemek kayitli ve 38 malzeme kayitlidir
+     * (daha detayli yapılabilir ama amacımız oop ve nasıl bir algoritma kurduğumuz)
+     * programımızın calisma mantıği su sekilde
+     * sectiğimiz malzemeleri en cok iceren yemeği oneriyor
+     * Programımızın adı Yemek tarifi yömetim sistemi ya da bügün ne yapsam
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Özellikler
+    * Yemek adinda bir ana sinifimiz var
+    * yemekAd ve malzeme adinda degiskenieri var (final)
+    * Malzeme adinda bir sinifimiz icinde 38 adet malzeme
+    * degiskenini tutan bir liste var
+    * 8 adet yemek sınıfından türetilmiş cesitli yemekler var
+    * her birinin ismi ve malzemelerini tutan degiskenler var
+    *App.java sınıfında algoritmamızı calşistran kodlar var 
+    *Program konsol üzerinde calisiyor
