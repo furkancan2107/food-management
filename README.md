@@ -1,6 +1,9 @@
 ## Bugün Ne Yapsam
 
 
+ 
+    nesne tabanlı programlamayı kavramak icin okulda verilen donem odevi
+    proje secimi bize birakılmıştır
 
 ## Uygulama Hakkinda
 
@@ -21,3 +24,8 @@
      her birinin ismi ve malzemelerini tutan degiskenler var
      App.java sınıfında algoritmamızı calşistran kodlar var 
      Program konsol üzerinde calisiyor
+     
+     
+     
+     
+   
